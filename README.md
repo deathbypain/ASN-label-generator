@@ -2,7 +2,7 @@
 
 A tiny tool for people who run [paperless-ngx], a self-hosted digital document store, and also keep the physical **hard copies** of those documents.
 
-Once a paper document has been scanned and uploaded to paperless-ngx, this tool generates a print-ready label that you stick on the **back of the original paper** before filing it. Each label contains:
+Once a paper document has been scanned and uploaded to paperless-ngx, this tool generates a print-ready label that you **print directly on the back of the original sheet** before filing it. Each label contains:
 
 - A **QR code** that opens the document's paperless-ngx page, so you can scan it from the paper with your phone and jump straight to the digital copy.
 - The document's **ASN** (Archival Storage Number) in text form, next to the QR code, for quick visual reference while shelving.
